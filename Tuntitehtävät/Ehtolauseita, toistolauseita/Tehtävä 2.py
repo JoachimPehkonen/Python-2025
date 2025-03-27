@@ -1,0 +1,1 @@
+luku1 = int(input())
