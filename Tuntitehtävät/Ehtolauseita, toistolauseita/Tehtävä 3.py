@@ -33,3 +33,5 @@ else:
     print("Olet eläkeläinen")
 
 #Mitä ongelmia kyseisitä ehdoista löydät? Miten korjaisit ne?
+#Ei mitään hajua vielä miten kaorjata "ongelmia" tuosta, mutta kaikki toimii nyt kuten pitää. Paitsi nyt 1-5-vuotiaat ovat esikoululaisia, mutta en jaksa korjata asiaa
+
